@@ -1,0 +1,18 @@
+.catalogWrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 2000px;
+
+  h1 {
+    padding: 20px 0;
+    color: #000000;
+    letter-spacing: 3px;
+  }
+
+  .catalogPage {
+    display: flex;
+    min-height: 100vh;
+    border-top-style: groove;
+  }
+}
